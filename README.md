@@ -1,0 +1,1 @@
+# a generic jQuery project
